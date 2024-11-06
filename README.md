@@ -14,8 +14,13 @@ Features:
 Requirements:
 
 Python 3.8+
+
 FastAPI: Web framework for building the server.
+
 ChromaDB: Vector database for storing and querying embeddings.
+
 Sentence-Transformers: For generating embeddings and performing retrieval-augmented generation.
+
 Uvicorn: ASGI server for FastAPI.
+
 Pip: For managing dependencies.
